@@ -7,6 +7,3 @@ This will stay eniterly in **real mode** cuz i have a bad history with interrupt
 I have only added windows support for the time being. Have a look at the comp.bat, you will come to know what it does and then make your own script file.
 
 Just run comp.bat and it should compile it first then launch the VM, if there is something wrong it will display an error.
-<BR><BR><BR>
-### FEEL FREE TO CONTRIBUTE AND MODIFY TO YOUR OWN NEEDS!
-also help me with the shutdown part i have just made it loop forever ;-;
